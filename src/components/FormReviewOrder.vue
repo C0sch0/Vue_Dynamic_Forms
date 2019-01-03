@@ -81,7 +81,21 @@
         form: {
           chocolate: false,
           otherTreat: false
-        }
+        },
+        funds: [
+          {
+            realAssetId: 186,
+            name: "Risky Norris",
+          },
+          {
+            realAssetId: 187,
+            name: "Moderate Pitt",
+          },
+          {
+            realAssetId: 188,
+            name: "Conservative Clooney",
+          },
+        ]
       }
     },
     computed: {
