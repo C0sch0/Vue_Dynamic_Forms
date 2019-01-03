@@ -2,27 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62f950f2-a4ca-4e21-8ff5-fe51a1e79fa3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/d2a7ed97ae92adaf329da8540afc9448.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/d2a7ed97ae92adaf329da8540afc9448.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/dc5341994f17cee39b803aeaea4f176e.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/dc5341994f17cee39b803aeaea4f176e.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/f586e32be02baa288371bb0c9c615a4a.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/f586e32be02baa288371bb0c9c615a4a.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/083df5bd9cc64523040e6c3eda8b9cc6.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/083df5bd9cc64523040e6c3eda8b9cc6.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/11e68830d2440609232915fff281eb1c.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/11e68830d2440609232915fff281eb1c.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/5ff70e79eaaee1d3ad97dd6f17c5d438.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/5ff70e79eaaee1d3ad97dd6f17c5d438.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/63619d6a321a349c826f6909bc0ddffa.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/63619d6a321a349c826f6909bc0ddffa.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/6581f07ee8fb3965e05bbb9b13dae8a0.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/6581f07ee8fb3965e05bbb9b13dae8a0.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/6f938e420a65e72327e810d89ba09f9d.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/6f938e420a65e72327e810d89ba09f9d.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/86bedef26da3360960468615699c75b4.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/86bedef26da3360960468615699c75b4.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/a1d5c4987688e95b875598e9bdd3a9d2.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/a1d5c4987688e95b875598e9bdd3a9d2.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/a505d117bd749fbc54d820466644fb9c.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/a505d117bd749fbc54d820466644fb9c.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/db9461b301701fb4f4f2bd891ac473c3.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/db9461b301701fb4f4f2bd891ac473c3.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/e05d6081b2774627e1bef78d01761ae2.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/e05d6081b2774627e1bef78d01761ae2.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/ffdcda77dd591c0f2089671c2c0c7366.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/ffdcda77dd591c0f2089671c2c0c7366.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/FormAddress.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/FormAddress.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/FormPlanPicker.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/FormPlanPicker.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/FormReviewOrder.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/FormReviewOrder.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/FormUserDetails.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/FormUserDetails.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/FormWizard.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/FormWizard.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -35,16 +15,18 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/FormWizard.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="58" column="21" lean-forward="true" selection-start-line="58" selection-start-column="21" selection-end-line="58" selection-end-column="21" />
-              <folding>
-                <element signature="e#612#657#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="495">
+              <caret line="33" column="47" lean-forward="true" selection-start-line="33" selection-start-column="47" selection-end-line="33" selection-end-column="47" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -78,12 +60,12 @@
         <option value="$PROJECT_DIR$/src/main.js" />
         <option value="$PROJECT_DIR$/src/components/Chart.vue" />
         <option value="$PROJECT_DIR$/src/App.vue" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/components/FormAddress.vue" />
         <option value="$PROJECT_DIR$/src/components/FormPlanPicker.vue" />
         <option value="$PROJECT_DIR$/src/components/FormReviewOrder.vue" />
         <option value="$PROJECT_DIR$/src/components/FormUserDetails.vue" />
         <option value="$PROJECT_DIR$/src/components/FormWizard.vue" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -157,12 +139,12 @@
       <updated>1546459945993</updated>
       <workItem from="1546459947264" duration="1251000" />
       <workItem from="1546463290792" duration="512000" />
-      <workItem from="1546519896368" duration="11424000" />
+      <workItem from="1546519896368" duration="11564000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13187000" />
+    <option name="totallyTimeSpent" value="13327000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
@@ -244,13 +226,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/FormReviewOrder.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="451">
@@ -299,13 +274,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/FormWizard.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="58" column="21" lean-forward="true" selection-start-line="58" selection-start-column="21" selection-end-line="58" selection-end-column="21" />
-          <folding>
-            <element signature="e#612#657#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="495">
+          <caret line="33" column="47" lean-forward="true" selection-start-line="33" selection-start-column="47" selection-end-line="33" selection-end-column="47" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
