@@ -1,31 +1,31 @@
 <template>
   <div>
-    <h1 class="title">Create Account</h1>
+    <h1 class="title">Quieres que te sigamos ayudando ?</h1>
 
     <h2 class="subtitle">
-      Create an account or log in to order your liquid gold subscription
+      Somos la AGF mas conveniente según El Mercurio
     </h2>
 
     <form @input="submit" class="form">
       <div class="form-group">
         <label class="form-label" for="email">Email</label>
-        <input type="text" v-model="$v.form.email.$model" placeholder="your@email.com" class="form-control" id="email">
-        <div v-if="$v.form.email.$error && !$v.form.email.required" class="error">email is required</div>
-        <div v-if="$v.form.email.$error && !$v.form.email.email" class="error">email is invalid</div>
+        <input type="text" v-model="$v.form.email.$model" placeholder="tu@email.com" class="form-control" id="email">
+        <div v-if="$v.form.email.$error && !$v.form.email.required" class="error">email es requerido</div>
+        <div v-if="$v.form.email.$error && !$v.form.email.email" class="error">email invalido</div>
       </div>
 
 
       <div class="form-group">
-        <label class="form-label" for="password">Password</label>
-        <input v-model="$v.form.password.$model" type="password" placeholder="Super Secret Password" class="form-control" id="password">
-        <div v-if="$v.form.password.$error && !$v.form.password.required" class="error">password is required</div>
+        <label class="form-label" for="password">Contraseña</label>
+        <input v-model="$v.form.password.$model" type="password" placeholder="Super secreta" class="form-control" id="password">
+        <div v-if="$v.form.password.$error && !$v.form.password.required" class="error">contraseña invalida</div>
       </div>
 
 
       <div class="form-group">
-        <label class="form-label" for="name">Name</label>
-        <input v-model="$v.form.name.$model" type="text" placeholder="What should we call you?" class="form-control" id="name">
-        <div v-if="$v.form.name.$error" class="error">name is required</div>
+        <label class="form-label" for="name">Nombre</label>
+        <input v-model="$v.form.name.$model" type="text" placeholder="Cómo te gustaría que te llamaramos ?" class="form-control" id="name">
+        <div v-if="$v.form.name.$error" class="error">Te faltó el nombre</div>
       </div>
     </form>
   </div>

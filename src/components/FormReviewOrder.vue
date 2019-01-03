@@ -59,7 +59,7 @@
         <div class="w-2/3">
           <h3>Delivery</h3>
           <p class="description">
-            Your first Liquid Gold Box is right around the corner
+            Your first
           </p>
         </div>
 

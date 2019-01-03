@@ -1,9 +1,12 @@
 <template>
   <div>
-    <h1 class="title">Coffee Plans</h1>
+    <h1 class="title">Sherlock</h1>
 
     <h2 class="subtitle">
-      We travel the world to source the very best single origin coffee for you
+      Queremos que inviertas de forma informada
+    </h2>
+    <h2 class="subtitle">
+      Que fondo de la AGF: XXXX compraste ?
     </h2>
 
     <div class="plans">
@@ -21,14 +24,11 @@
           <span class="title">
               {{plan.name}}
           </span>
-          <span class="description">
-              {{plan.description}}
-          </span>
         </div>
-        <div class="price">
-          <span class="dollar-sign">$</span>
-          <span class="number">{{plan.price}}</span>
-        </div>
+        <!--<div class="price">-->
+          <!--<span class="dollar-sign">$</span>-->
+          <!--<span class="number">{{plan.price}}</span>-->
+        <!--</div>-->
       </div>
     </div>
     <div v-if="$v.selectedPlan.$error" class="error">you should pick a plan to continue</div>
@@ -44,21 +44,21 @@
         plans: [
           {
             price: 19,
-            weight: '250g',
-            name: 'The Single',
-            description: 'One bag of freshly roasted coffee beans delivered to your house every month'
+            weight: 'A',
+            name: 'Fondo A arriesgado',
+            description: '...'
           },
           {
-            price: 29,
-            weight: '500g',
-            name: 'The Curious',
-            description: 'Two different types of freshly roasted coffee every month'
+            price: 19.202,
+            weight: 'B',
+            name: 'Fondo B moderado',
+            description: '...'
           },
           {
-            price: 49,
-            weight: '1kg',
-            name: 'The Addict',
-            description: 'Two bags of two different types of freshly roasted coffee every month.'
+            price: 19.202,
+            weight: 'C',
+            name: 'Fondo C pasivo',
+            description: '...'
           }
         ],
         selectedPlan: null
