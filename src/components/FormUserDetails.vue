@@ -3,7 +3,7 @@
     <h1 class="title">Quieres que te sigamos ayudando ?</h1>
 
     <h2 class="subtitle">
-      Somos la AGF mas conveniente según El Mercurio
+      Somos la AGF mas conveniente según El Mercurio(link_to)
     </h2>
 
     <form @input="submit" class="form">

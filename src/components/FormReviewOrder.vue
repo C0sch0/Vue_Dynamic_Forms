@@ -1,22 +1,22 @@
 <template>
   <div>
-    <h1 class="title">Confirm your order</h1>
+    <h1 class="title">Wazowski, análisis</h1>
 
     <h2 class="subtitle">
-      We're almost there!
+      Según nuestros calculos, a tu fondo mutuo le ha ido
     </h2>
 
     <div class="summary">
-      <h3>Subscription</h3>
+      <h3>Grafico 1</h3>
 
       <p class="description">
-        We'll send you carefully selected coffee every month.
+        Valor cuota a traves del tiempo de tu fondo
       </p>
 
       <div class="plans">
         <div class="plan active-plan">
           <div class="weight">
-            PLAN WEIGHT
+            algo
           </div>
 
           <div class="description">
@@ -57,16 +57,16 @@
 
       <div class="address">
         <div class="w-2/3">
-          <h3>Delivery</h3>
+          <h3>Información</h3>
           <p class="description">
-            Your first
+            Comprado hace X días, Y monto
           </p>
         </div>
 
         <div class="w-1/3">
           <h3>RECIPIENT</h3>
           <p class="leading-normal">
-            ADDRESS
+            AGF: XXXX
           </p>
         </div>
       </div>
@@ -81,7 +81,21 @@
         form: {
           chocolate: false,
           otherTreat: false
-        }
+        },
+        funds: [
+          {
+            realAssetId: 186,
+            name: "Risky Norris",
+          },
+          {
+            realAssetId: 187,
+            name: "Moderate Pitt",
+          },
+          {
+            realAssetId: 188,
+            name: "Conservative Clooney",
+          },
+        ]
       }
     },
     computed: {
