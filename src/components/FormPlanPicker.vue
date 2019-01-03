@@ -31,7 +31,7 @@
         <!--</div>-->
       </div>
     </div>
-    <div v-if="$v.selectedPlan.$error" class="error">you should pick a plan to continue</div>
+    <div v-if="$v.selectedPlan.$error" class="error">Debes seleccionar tu Fondo</div>
   </div>
 </template>
 
@@ -46,19 +46,19 @@
             price: 19,
             weight: 'A',
             name: 'Fondo A arriesgado',
-            description: '...'
+            description: 'Inversiones principalmente en Chile, Asia y Wakanda'
           },
           {
-            price: 19.202,
+            price: 19,
             weight: 'B',
             name: 'Fondo B moderado',
-            description: '...'
+            description: 'Inversiones principalmente en Chile, Asia y Wakanda'
           },
           {
-            price: 19.202,
+            price: 19,
             weight: 'C',
             name: 'Fondo C pasivo',
-            description: '...'
+            description: 'Inversiones principalmente en Chile, Asia y Wakanda'
           }
         ],
         selectedPlan: null
@@ -72,7 +72,9 @@
     methods: {
       pickPlan (plan) {
         this.selectedPlan = plan
-
+        this.submit()
+      },
+      submit () {
         this.$emit('update', {
           data: {
             plan: this.selectedPlan

@@ -35,23 +35,22 @@
         </div>
       </div>
 
-      <h3>
-        Level up your box
-      </h3>
 
-      <p class="description">
-        Treat yourself by leveling up your monthly box
-      </p>
+      <h3>
+        Nos gustaría seguir ayudandote.
+
+      </h3>
+      <h3>Quieres ver las proyecciones de estos fondos, pero con nosotros ?</h3>
 
       <div @change="submit" class="options">
         <div class="option">
           <input v-model="form.chocolate" type="checkbox" value="chocolate" id="chocolate">
-          <label for="chocolate">4 pcs. Single Origin Chocolate (+$4/month)</label>
+          <label for="chocolate">Mandenme mail con mas información</label>
         </div>
 
         <div class="option">
           <input v-model="form.otherTreat" type="checkbox" value="chocolate" id="other_treat">
-          <label for="other_treat">Another delicious treat (+$2/month)</label>
+          <label for="other_treat">Revisar pagina de Fintual</label>
         </div>
       </div>
 
@@ -116,6 +115,7 @@
         return total
       }
     },
+    validations: {},
     methods: {
       submit () {
         this.$emit('update', {
