@@ -29,11 +29,27 @@
           </div>
 
           <div class="price">
-            <span class="dollar-sign">$</span>
-            <span class="number">{{totalPrice}}</span>
           </div>
         </div>
       </div>
+
+      <div>
+        <p>Tu fondo a tenido una rentabilidad promedio de:</p>
+        <span class="dollar-sign">% </span>
+        <span class="number">3.45</span>
+      </div>
+      <div>
+        <p>Lo que equivale a que tu monto total actual:</p>
+        <span class="dollar-sign">$ </span>
+        <span class="number">2.453.293</span>   <!--<{{totalPrice}}-->
+      </div>
+      <div>
+        <p>En comisión has pagado una horrorosidad de:</p>
+        <span class="dollar-sign">$ </span>
+        <span class="number">203.392</span>
+      </div>
+      <div style="height: 100px;"></div>
+
 
 
       <h3>
@@ -55,17 +71,30 @@
       </div>
 
       <div class="address">
-        <div class="w-2/3">
+        <div class="w-1/3">
           <h3>Información</h3>
+
           <p class="description">
-            Comprado hace X días, Y monto
+            Días: 90
+          </p>
+          <p class="description">
+            Monto: 1.000.000
+          </p>
+          <p class="description">
+            Valor cuota inicial: 9.234
+          </p>
+          <p class="description">
+            Valor cuota final: 1.234
           </p>
         </div>
 
         <div class="w-1/3">
           <h3>{{wizardData.recipient}}</h3>
           <p class="leading-normal">
-            AGF: {{wizardData.addresss}}
+            AGF: {{wizardData.address}}
+          </p>
+          <p>
+            Fondo: Fondo A Serie Jackie Chan
           </p>
         </div>
       </div>

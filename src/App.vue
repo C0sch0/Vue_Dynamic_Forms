@@ -9,7 +9,7 @@
     <div class="content">
       <FormWizard/>
     </div>
-    <div style="margin-top: 800px;">    <Chart v-for="(fund, index) in funds" :key="`fund-chart-${index}`" :real-asset-id="fund.realAssetId" :name="fund.name" />
+    <div style="margin-top: 100px;">    <Chart v-for="(fund, index) in funds" :key="`fund-chart-${index}`" :real-asset-id="fund.realAssetId" :name="fund.name" />
     </div>
 
   </div>

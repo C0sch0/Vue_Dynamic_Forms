@@ -2,24 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62f950f2-a4ca-4e21-8ff5-fe51a1e79fa3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/110aaeda7a7676b5fa5319e8ee1484a6.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/110aaeda7a7676b5fa5319e8ee1484a6.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/a043098cf50e596b7548cd740c510612.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/a043098cf50e596b7548cd740c510612.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/934ee3ab19fe3eb729dc75721b1a18f7.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/934ee3ab19fe3eb729dc75721b1a18f7.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/dc5341994f17cee39b803aeaea4f176e.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/dc5341994f17cee39b803aeaea4f176e.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/f586e32be02baa288371bb0c9c615a4a.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/f586e32be02baa288371bb0c9c615a4a.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/0a6950357c8981e9a25418d65a6c06bc.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/0a6950357c8981e9a25418d65a6c06bc.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/0c5f8779af1759bae9490f8834b90a0e.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/0c5f8779af1759bae9490f8834b90a0e.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/11e68830d2440609232915fff281eb1c.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/11e68830d2440609232915fff281eb1c.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/4f05ea3447d8a0adc6f5b8c1c714ab28.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/4f05ea3447d8a0adc6f5b8c1c714ab28.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/19a2f70b507bc6ab488cace2c4de875f.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/19a2f70b507bc6ab488cace2c4de875f.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/5445f351a5e43ec6e5d3dba44bfa1a08.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/5445f351a5e43ec6e5d3dba44bfa1a08.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/6581f07ee8fb3965e05bbb9b13dae8a0.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/6581f07ee8fb3965e05bbb9b13dae8a0.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/6f938e420a65e72327e810d89ba09f9d.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/6f938e420a65e72327e810d89ba09f9d.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/86bedef26da3360960468615699c75b4.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/86bedef26da3360960468615699c75b4.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/e5753ee97c6c75eab3bf075f5442c7ef.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/e5753ee97c6c75eab3bf075f5442c7ef.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/e74d40d74d93d2bf928fed03cd5a95bd.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/e74d40d74d93d2bf928fed03cd5a95bd.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/f52552ec7e009508980d5070469f5549.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/f52552ec7e009508980d5070469f5549.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/ffdcda77dd591c0f2089671c2c0c7366.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/ffdcda77dd591c0f2089671c2c0c7366.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/FormPlanPicker.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/FormPlanPicker.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/f1fd6fec45bebd9450d5fddf2ad79897.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/f1fd6fec45bebd9450d5fddf2ad79897.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/FormReviewOrder.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/FormReviewOrder.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/FormWizard.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/FormWizard.vue" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -35,8 +28,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/FormReviewOrder.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-160">
-              <caret line="52" column="60" selection-start-line="52" selection-start-column="60" selection-end-line="52" selection-end-column="60" />
+            <state relative-caret-position="412">
+              <caret line="54" column="10" lean-forward="true" selection-start-line="54" selection-start-column="10" selection-end-line="54" selection-end-column="10" />
+              <folding>
+                <element signature="n#style#0;n#div#4;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -44,30 +40,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/App.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+            <state relative-caret-position="165">
+              <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
               <folding>
-                <element signature="n#style#0;n#div#1;n#div#0;n#template#0;n#!!top" expanded="true" />
                 <element signature="e#423#475#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/components/FormPlanPicker.vue">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="33" column="79" selection-start-line="33" selection-start-column="79" selection-end-line="33" selection-end-column="79" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/FormUserDetails.vue">
+        <entry file="file://$PROJECT_DIR$/src/components/Chart.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1125">
-              <caret line="75" column="8" selection-start-line="75" selection-start-column="8" selection-end-line="75" selection-end-column="8" />
+            <state>
+              <caret column="10" lean-forward="true" selection-start-column="10" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -75,20 +61,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/FormWizard.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1350">
-              <caret line="90" column="33" lean-forward="true" selection-start-line="90" selection-start-column="33" selection-end-line="90" selection-end-column="33" />
+            <state relative-caret-position="510">
+              <caret line="34" column="9" lean-forward="true" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
               <folding>
-                <element signature="e#612#657#0" expanded="true" />
+                <element signature="e#689#734#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/FormAddress.vue">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/components/FormUserDetails.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="8" lean-forward="true" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+            <state relative-caret-position="1125">
+              <caret line="75" column="8" selection-start-line="75" selection-start-column="8" selection-end-line="75" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -124,13 +110,13 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/main.js" />
         <option value="$PROJECT_DIR$/src/components/Chart.vue" />
-        <option value="$PROJECT_DIR$/src/App.vue" />
         <option value="$PROJECT_DIR$/src/components/FormAddress.vue" />
         <option value="$PROJECT_DIR$/src/components/FormUserDetails.vue" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/components/FormWizard.vue" />
-        <option value="$PROJECT_DIR$/src/components/FormReviewOrder.vue" />
         <option value="$PROJECT_DIR$/src/components/FormPlanPicker.vue" />
+        <option value="$PROJECT_DIR$/src/App.vue" />
+        <option value="$PROJECT_DIR$/src/components/FormReviewOrder.vue" />
       </list>
     </option>
   </component>
@@ -204,12 +190,12 @@
       <updated>1546459945993</updated>
       <workItem from="1546459947264" duration="1251000" />
       <workItem from="1546463290792" duration="512000" />
-      <workItem from="1546519896368" duration="12547000" />
+      <workItem from="1546519896368" duration="13570000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14310000" />
+    <option name="totallyTimeSpent" value="15333000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
@@ -291,13 +277,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Chart.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="27" column="10" lean-forward="true" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -305,21 +284,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/App.vue">
+    <entry file="file://$PROJECT_DIR$/src/components/FormPlanPicker.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
-          <folding>
-            <element signature="n#style#0;n#div#1;n#div#0;n#template#0;n#!!top" expanded="true" />
-            <element signature="e#423#475#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/FormReviewOrder.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-160">
-          <caret line="52" column="60" selection-start-line="52" selection-start-column="60" selection-end-line="52" selection-end-column="60" />
+        <state relative-caret-position="144">
+          <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
         </state>
       </provider>
     </entry>
@@ -330,12 +298,39 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/FormReviewOrder.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="54" column="10" lean-forward="true" selection-start-line="54" selection-start-column="10" selection-end-line="54" selection-end-column="10" />
+          <folding>
+            <element signature="n#style#0;n#div#4;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+          <folding>
+            <element signature="e#423#475#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Chart.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="10" lean-forward="true" selection-start-column="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/FormWizard.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1350">
-          <caret line="90" column="33" lean-forward="true" selection-start-line="90" selection-start-column="33" selection-end-line="90" selection-end-column="33" />
+        <state relative-caret-position="510">
+          <caret line="34" column="9" lean-forward="true" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
           <folding>
-            <element signature="e#612#657#0" expanded="true" />
+            <element signature="e#689#734#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -344,13 +339,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1125">
           <caret line="75" column="8" selection-start-line="75" selection-start-column="8" selection-end-line="75" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/FormPlanPicker.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" column="79" selection-start-line="33" selection-start-column="79" selection-end-line="33" selection-end-column="79" />
         </state>
       </provider>
     </entry>
