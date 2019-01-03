@@ -3,7 +3,7 @@
     <h1 class="title">Wazowski, análisis</h1>
 
     <h2 class="subtitle">
-      Según nuestros calculos, a tu fondo mutuo le ha ido
+      Según nuestros calculos, tu fondo:
     </h2>
 
     <div class="summary">
@@ -34,21 +34,23 @@
       </div>
 
       <div>
-        <p>Tu fondo a tenido una rentabilidad promedio de:</p>
+        <p>Ha tenido una rentabilidad promedio de:</p>
         <span class="dollar-sign">% </span>
         <span class="number">3.45</span>
       </div>
       <div>
-        <p>Lo que equivale a que tu monto total actual:</p>
+        <p>Lo que equivale a que tu monto total actual es aproximadamente:</p>
         <span class="dollar-sign">$ </span>
         <span class="number">2.453.293</span>   <!--<{{totalPrice}}-->
       </div>
       <div>
         <p>En comisión has pagado una horrorosidad de:</p>
+
         <span class="dollar-sign">$ </span>
         <span class="number">203.392</span>
+        <p class="wow">(Wow! Acaso no sabías que Fintual es harto más barato ? Pensabamos que eras más viv@)</p>
       </div>
-      <div style="height: 100px;"></div>
+      <div style="height: 80px;"></div>
 
 
 
@@ -160,5 +162,7 @@
 </script>
 
 <style scoped>
-
+.wow {
+  font-size: 0.3cm;
+}
 </style>
